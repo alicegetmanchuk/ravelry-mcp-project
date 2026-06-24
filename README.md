@@ -20,7 +20,7 @@ An MCP server that connects Claude to the [Ravelry](https://www.ravelry.com) API
 ## Setup
 
 ```bash
-git clone https://github.com/yourname/ravelry-mcp.git
+git clone https://github.com/alicegetmanchuk/ravelry-mcp-project.git
 cd ravelry-mcp
 uv pip install -e .
 cp .env.example .env
